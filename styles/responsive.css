@@ -1,0 +1,10 @@
+@media screen and (max-width :576px) {
+    .nav-hamburger-menu{
+        display: block;
+    }
+    nav > ul{
+        display: none;
+        flex-direction: row;
+        align-items: center;
+    }
+}
