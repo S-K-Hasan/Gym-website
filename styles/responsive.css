@@ -1,10 +1,35 @@
 @media screen and (max-width :576px) {
+    nav > ul{
+        display: none;
+    }
     .nav-hamburger-menu{
         display: block;
     }
-    nav > ul{
-        display: none;
-        flex-direction: row;
-        align-items: center;
+    nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    }
+    /* header{
+        max-width: 100%;
+    } */
+    .header-container{
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+    .header-button{
+        max-width: 80%;
+        display: flex;
+       flex-direction: row;
+       justify-content: center;
+       align-items: flex-start;
+    }
+    .primary-button-one{
+         width: 169px;
+    }
+    .primary-button-two{
+        width: 169px;
     }
 }
