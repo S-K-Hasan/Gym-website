@@ -1,9 +1,17 @@
 @media screen and (max-width :576px) {
-    nav > ul{
-        display: none;
-    }
     .nav-hamburger-menu{
         display: block;
+   
+    }
+    .nav-hamburger-menu img{
+        width :35px;
+        height: 35px;
+        margin-left: 190px;
+    }
+    nav > ul{
+        display: none;
+        flex-direction: row;
+        align-items: center;
     }
     nav{
     display: flex;
@@ -11,7 +19,13 @@
     justify-content: space-between;
     align-items: center;
     padding: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
     }
+    /* nav h3{
+        margin-left: -150px;
+    } */
     /* header{
         max-width: 100%;
     } */
@@ -25,11 +39,49 @@
        flex-direction: row;
        justify-content: center;
        align-items: flex-start;
+       gap:20px;
+       
     }
     .primary-button-one{
          width: 169px;
+         height: 45px;
+         margin: auto;
+         margin-left: -27px;
+         margin-right: 8px;
+        
     }
     .primary-button-two{
         width: 169px;
+        height: 45px;
+        margin: auto;
+    }
+    .header-image{
+       margin: 0 auto;
+    }
+    .box-one{
+        position: absolute;
+        width: 145.91px;
+        height: 74.09px;
+        left: 250px;
+        top: 970px;
+
+    }
+    .box-two{
+        /* Rectangle 17 */
+position: absolute;
+width: 155.74px;
+height: 72.58px;
+left: 39px;
+top: 1100px;
+    }
+    .box-one h3{
+        margin-top: -12px;
+    }
+    .circle{
+        margin-top: 13px;
+    }
+    .box-two h3{
+        margin-top: 5px;
+        margin-bottom: 10px;
     }
 }
