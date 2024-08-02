@@ -95,4 +95,22 @@
         display: flex;
         flex-direction: column;
     }
+    .third-container{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .third-content{
+        max-width: 90%;
+        margin: 0 auto;
+    }
+    .third-content button{
+        margin-left: 10px;
+        width: 90%;
+    }
+    .third-image img{
+        margin-left: 45px;
+        margin-top: -30px;
+        margin-bottom: 20px;
+    }
 }
