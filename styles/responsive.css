@@ -42,6 +42,9 @@
         gap:20px;
        
     }
+    .header-left h3{
+    margin-top: 0px;
+    }
     .primary-button-one{
          width: 169px;
          height: 45px;
@@ -63,7 +66,7 @@
         width: 145.91px;
         height: 74.09px;
         left: 250px;
-        top: 970px;
+        top: 910px;
 
     }
     .box-two{
@@ -72,7 +75,7 @@
         width: 155.74px;
         height: 72.58px;
         left: 35px;
-        top: 1150px;
+        top: 1100px;
     }
     .box-one h3{
         margin-top: -12px;
@@ -113,4 +116,8 @@
         margin-top: -30px;
         margin-bottom: 20px;
     }
+   .forth-container{
+    display: flex;
+    flex-direction: column;
+   }
 }
