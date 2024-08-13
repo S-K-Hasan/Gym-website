@@ -243,7 +243,7 @@ nav li a{
 .box-two h3{
    color: rgb(250, 250, 249);
    font-family: Inter;
-   font-size: 24px;
+   font-size: 1.5rem;
    font-weight: 900;
    line-height: 24px;
    letter-spacing: 0.3px;
@@ -388,16 +388,16 @@ margin-top: -40px;
   margin: o auto;
   margin-top: 60px;
 }
-.forth{
-/*    
+/* .forth{
+   
     display: flex;
     flex-direction: column;
-    justify-content: center;  */
-}
+    justify-content: center;  
+} */
 .forth-header h3{
     color: rgb(255, 255, 255);
 font-family: Inter;
-font-size: 48px;
+font-size: 3rem;
 font-weight: 900;
 line-height: 120%;
 letter-spacing: 0%;
@@ -406,7 +406,7 @@ letter-spacing: 0%;
 .forth-header p{
     color: rgba(255, 255, 255, 0.5);
 font-family: Inter;
-font-size: 14px;
+font-size: 0.8rem;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.3px;
@@ -436,7 +436,7 @@ text-align: left;
 .bmi-chart h3{
     color: rgb(255, 255, 255);
 font-family: Inter;
-font-size: 28px;
+font-size: 1.7rem;
 font-weight: 900;
 line-height: 120%;
 letter-spacing: 0%;
@@ -445,7 +445,7 @@ text-align: left;
 .table-content td{
     color: rgba(255, 255, 255, 0.5);
 font-family: Inter;
-font-size: 14px;
+font-size: 0.8rem;
 font-weight: 400;
 line-height: 120%;
 letter-spacing: 0%;
@@ -456,7 +456,7 @@ padding: 15px;
 .table-header th{
     color: rgb(255, 255, 255);
     font-family: Inter;
-    font-size: 16px;
+    font-size: 1rem;
 font-weight: 500;
 line-height: 120%;
 letter-spacing: 0%;
@@ -466,16 +466,16 @@ padding: 15px;
 .bmi-chart h3{
     color: rgb(255, 255, 255);
 font-family: Inter;
-font-size: 28px;
+font-size: 1.7rem;
 font-weight: 900;
 line-height: 120%;
 letter-spacing: 0%;
 text-align: left;
 
 }
-.table-header td{
+/* .table-header td{
 
-}
+} */
 .table{
     border-collapse: collapse;
     color: white;
@@ -486,7 +486,7 @@ text-align: left;
 .bmi-calculator h3{
     color: rgb(255, 255, 255);
 font-family: Inter;
-font-size: 28px;
+font-size: 1.7rem;
 font-weight: 900;
 line-height: 120%;
 letter-spacing: 0%;
@@ -495,7 +495,7 @@ text-align: left;
 .bmi-calculator p{
     color: rgba(255, 255, 255, 0.5);
 font-family: Inter;
-font-size: 14px;
+font-size: 0.8rem;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.3px;
@@ -533,7 +533,7 @@ text-align: left;
     border-radius: 8px;
     color: rgba(255, 255, 255, 0.6);
     font-family: Inter;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 22px;
     letter-spacing: 0px;
@@ -563,7 +563,7 @@ text-align: left;
 .fifth-header h3{
     color: rgb(255, 255, 255);
     font-family: Inter;
-    font-size: 48px;
+    font-size: 3rem;
     font-weight: 900;
     line-height: 120%;
     letter-spacing: 0%;
@@ -572,7 +572,7 @@ text-align: left;
 .fifth-header p{
     color: rgba(255, 255, 255, 0.5);
     font-family: Inter;
-    font-size: 14px;
+    font-size: 0.8rem;
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.3px;
@@ -627,7 +627,7 @@ text-align: left;
 .sixth-one h3{
     color: rgb(255, 255, 255);
 font-family: Inter;
-font-size: 48px;
+font-size: 3rem;
 font-weight: 900;
 line-height: 120%;
 letter-spacing: 0%;
@@ -636,7 +636,7 @@ text-align: center;
 .sixth-one p{
     color: rgba(255, 255, 255, 0.5);
 font-family: Inter;
-font-size: 14px;
+font-size: 0.8rem;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.3px;
@@ -663,7 +663,7 @@ text-align: center;
 .sixth-two-body h3{
     color: rgb(255, 255, 255);
 font-family: Inter;
-font-size: 30px;
+font-size: 1.9rem;
 font-weight: 700;
 line-height: 120%;
 letter-spacing: 0%;
@@ -672,7 +672,7 @@ text-align: left;
 .sixth-two-body p{
     color: rgba(255, 255, 255, 0.5);
 font-family: Inter;
-font-size: 20px;
+font-size: 1.3rem;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.3px;
@@ -681,14 +681,14 @@ text-align: left;
 .sixth-two-body ul{
     color: rgb(255, 255, 255);
 font-family: Inter;
-font-size: 15px;
+font-size: 0.9rem;
 font-weight: 400;
 line-height: 120%;
 letter-spacing: 0%;
 text-align: left;
 }
 .sixth-two-body span{
-    font-size: 35px;
+    font-size: 2.2rem;
 }
 .sixth-two-body button{
     max-width: 80%;
@@ -713,7 +713,7 @@ text-align: left;
 .footer-one p{
     color: rgba(255, 255, 255, 0.5);
 font-family: Inter;
-font-size: 14px;
+font-size: 0.8rem;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.3px;
@@ -722,7 +722,7 @@ text-align: left;
 .footer-h{
     color: rgb(255, 255, 255);
 font-family: Inter;
-font-size: 32px;
+font-size: 2rem;
 font-weight: 700;
 line-height: 120%;
 letter-spacing: 0%;
@@ -731,9 +731,9 @@ text-align: left;
 .footer-two ul{
     color: rgba(255, 255, 255, 0.5);
     font-family: Inter;
-    font-size: 23px;
+    font-size: 1.4rem;
     font-weight: 400;
-    line-height: 120%;
+    line-height: 150%;
     letter-spacing: 0%;
     text-align: left;
     margin-left: -30px;
@@ -746,7 +746,7 @@ hr{
 .footer-last{
     color: rgba(255, 255, 255, 0.5);
 font-family: Inter;
-font-size: 20px;
+font-size: 1.2rem;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.3px;

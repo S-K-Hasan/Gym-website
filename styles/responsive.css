@@ -116,8 +116,56 @@
         margin-top: -30px;
         margin-bottom: 20px;
     }
+    .forth-header{
+        max-width: 90%;
+    }
    .forth-container{
     display: flex;
     flex-direction: column;
+    max-width: 90%;
+   }
+   .bmi-chart{
+    max-width: 90%;
+   }
+   .bmi-calculator{
+   
+    max-width: 90%;
+   }
+   .fiifth-container{
+    max-width: 90%;
+   }
+   .fifth-header{
+    max-width: 100%;
+   }
+   .fifth-header h3{
+    font-size: 2.5rem;
+    margin-bottom: 0px;
+   }
+   .fifth-team {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+   }
+   .sixth-container{
+    max-width: 90%;
+   }
+   .sixth-one h3{
+    font-size: 2.5rem;
+    margin-bottom: 0px;
+   }
+   .sixth-two{
+    display: flex;
+    flex-direction: column;
+   }
+   .footer-container{
+    display: flex;
+    flex-direction: column;
+    max-width: 90%;
+   }
+   .footer-one{
+    max-width: 90%;
+   }
+   hr{
+    max-width: 90%;
+    
    }
 }
